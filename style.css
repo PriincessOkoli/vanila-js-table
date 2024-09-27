@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: darkgrey;
+}
+h1 {
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: rgb(0, 139, 79);
+  text-decoration: underline;
+  display: flex;
+  align-items: center;
+}
+table{
+    margin: auto;
+}
+tr{
+    background-color: blue;
+}
+td{
+    background-color:aliceblue;
+}
+th, td{
+   width: 150px;
+   text-align: left;
+   padding: 15px;
+}
+th{
+    background-color:aquamarine ;
+}
+button{ 
+    padding: 10px 20px;
+    background-color:cadetblue ;
+    border-radius: 20px;
+    color: aliceblue;
+    border: 1px solid lightgreen;
+    cursor: pointer;
+    margin-left: 10px;
+}
+button:hover{ 
+    background-color:rgb(108, 153, 155) ;
+    color: rgb(214, 222, 230);
+    border: 1px solid rgb(156, 201, 156);
+}
