@@ -1,0 +1,13 @@
+- [ ] access problem
+- [ ] create folder
+- [ ] create html, ccs and js files
+- [ ] design simple table UI
+- [ ] create an Object
+- [ ] save to local storage
+- [ ] fetch tabledata  object from local storage and map across the table body
+- [ ] create button for insertion of new rows and values
+- [ ] create a text field that is only visible when then button for insertion is clicked
+- [ ] add event listenner to the buttons that calls a function to display the text field
+- [ ] add button to the  text field that update the tabledata object by appending the new inserted values(row) to it 
+- [ ] add a validation function to ensure all values of the row are inputted before updating
+- [ ] save the updated TableData object to the local storage 
